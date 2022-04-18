@@ -6,6 +6,7 @@
   Facebook:https://www.facebook.com/arham.rasheed.96343/
   Whatsapp:0309-6509007
   Email: arhamshami202@gmail.com
+  Linkedin: https://www.linkedin.com/in/arham-shami-85263520a/
 
 <!---
 amiarham/amiarham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
