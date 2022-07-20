@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arham Shami (@amiarham)
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front-end web development.
+- 🌱 I’m a Mern stack web developer.
 - 💞️ I’m looking to collaborate on any technologies related to Full-stack web.
 - 📫 How to reach me:
   Facebook:https://www.facebook.com/arham.rasheed.96343/
