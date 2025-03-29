@@ -97,7 +97,7 @@
 ## 🎉 Fun Facts & Hobbies
 - **Hobbies:** Reading tech blogs, exploring new programming challenges, gaming, and traveling.
 - **Favorite Quote:** “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-- **Random Fact:** I once built an entire app prototype in under 24 hours!
+- **Random Fact:** Nah I am boring
 
 ---
 
