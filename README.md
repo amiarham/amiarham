@@ -1,6 +1,6 @@
 <!-- Banner Image (optional) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/66700148?v=4" alt="Banner" width="100%"/>
+
 </p>
 
 <h1 align="center">Hi there, I'm Arham Shami 👋</h1>
